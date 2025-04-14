@@ -37,7 +37,7 @@ $apps = @(
     "Amazon.Games",
     "Telegram.TelegramDesktop",
     "Microsoft.VisualStudioCode",
-    "Microsoft.PowerToys",
+    "Microsoft.PowerToys"
 )
 
 # Verifica se o winget está instalado
